@@ -1,0 +1,25 @@
+_repo: Serge-Panine-Volume-04_3917
+creator:
+  author:
+    agent_name: Ohnet, Georges
+    alias: Ohnet, Jorge
+    birthdate: 1848
+    deathdate: 1918
+    gutenberg_agent_id: '1336'
+    url: http://www.gutenberg.org/2009/agents/1336
+    wikipedia: http://en.wikipedia.org/wiki/Georges_Ohnet
+description: ''
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'French fiction -- Translations into English'
+title: Serge Panine — Volume 04
+url: http://www.gutenberg.org/ebooks/3917
